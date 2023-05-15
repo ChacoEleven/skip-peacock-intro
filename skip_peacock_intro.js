@@ -5,8 +5,9 @@ const callback = function (mutations, observer) {
         // Iterate over all added nodes in a mutation
         for (let node of mutation.addedNodes) {
             // Click on node if it
-            if (node.matches('.watch-video--skip-content')) {
+            if (node.matches('.playback-controls__skip--button')) {
                 node.firstChild.click();
+                console.log(`PEACOCKTV: Skip Button Pressed!`)
             }
         }
     }
