@@ -1,5 +1,9 @@
+
 // Create observer with callback function
 const callback = function (mutations, observer) {
+    // Don't look for a skip button if we're not streaming anything.
+    if (!window.location.pathname.includes("/watch/playback")) return
+
     // Iterate over every DOM mutation
     for (let mutation of mutations) {
         // Iterate over all added nodes in a mutation
