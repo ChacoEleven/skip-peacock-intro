@@ -7,4 +7,5 @@ It automatically skips the intro on Peacocktv.com when the 'Skip' button is show
 
 ## Installation 
 
-*Awaiting Extension Approval*
+Install this Extension for Firefox from the [Firefox Add-Ons Browser](https://addons.mozilla.org/en-US/firefox/addon/skip-peacock-intro/)
+https://addons.mozilla.org/en-US/firefox/addon/skip-peacock-intro/
