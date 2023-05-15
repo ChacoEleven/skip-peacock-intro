@@ -7,5 +7,4 @@ It automatically skips the intro on Peacocktv.com when the 'Skip' button is show
 
 ## Installation 
 
-You can download and install the addon from the official Mozilla addon website:
-[Skip Netflix Intro on addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/skip-netflix-intro/)
+*Awaiting Extension Approval*
