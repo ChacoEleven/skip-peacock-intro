@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Skip Peacock Intro",
   "version": "1.0",
-  "description": "Addon to automatically skip intros on Peacock",
+  "description": "Addon to automatically skip intros on Peacocktv.com",
   "content_scripts": [
     {
       "matches": [
